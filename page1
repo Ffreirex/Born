@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link rel="shortcut icon" href="bornp.icon.png" type="image/x-icon">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Born Personalização</title>
+</head>
+<body>
+    <section>
+        <div class="container-almofadas">
+            <h1>ALMOFADAS</h1>
+                <div class="almofada">
+                     <img src="almofada kit 3.png" alt="">
+                    <p>Almofada kit 3 pcs</p>
+                    <h5>R$000</h5>
+                    <ion-icon name="cart-outline"></ion-icon>
+                </div><!--almofada-->
+    
+    
+               <div class="almofada">
+                <img src="almofada sua arte aqui.png" alt="">
+               <p>Almofada arte personalizada</p>
+               <h5>R$000</h5>
+               <span><ion-icon name="cart-outline"></ion-icon></span>
+
+           </div><!--almofada-->
+        </div>
+    </section>
+</body>
